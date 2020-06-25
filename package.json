@@ -1,7 +1,7 @@
 {
-  "name": "cordova-plugin-secure-storage-echo",
-  "version": "5.1.1",
-  "description": "Secure storage plugin for iOS & Android",
+  "name": "cordova-plugin-secure-storage-2",
+  "version": "0.0.3",
+  "description": "Secure storage plugin for Android",
   "author": "Yiorgis Gozadinos <ggozad@crypho.com>",
   "contributors": [
     {
@@ -26,8 +26,8 @@
     }
   ],
   "cordova": {
-    "id": "cordova-plugin-secure-storage-echo",
-    "platforms": ["android", "ios", "wp8", "windows"]
+    "id": "cordova-plugin-secure-storage-2",
+    "platforms": ["android"]
   },
   "keywords": [
     "cordova",
@@ -45,7 +45,7 @@
   "main": "www/securestorage.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mibrito707/cordova-plugin-secure-storage-echo.git"
+    "url": "git+https://github.com/mibrito707/cordova-plugin-secure-storage-2.git"
   },
   "scripts": {
     "eslint": "./node_modules/.bin/eslint www/securestorage.js tests/tests.js"
@@ -56,7 +56,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mibrito707/cordova-plugin-secure-storage-echo/issues"
+    "url": "https://github.com/mibrito707/cordova-plugin-secure-storage-2/issues"
   },
-  "homepage": "https://github.com/mibrito707/cordova-plugin-secure-storage-echo#readme"
+  "homepage": "https://github.com/mibrito707/cordova-plugin-secure-storage-2#readme"
 }
